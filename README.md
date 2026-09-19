@@ -27,7 +27,7 @@ This project delivers a two-page interactive Power BI analytical solution built 
 ![Overview](Overview.png)
 
 ### 2. Patients & Operations
-![Patients & Operations](Patients%&%Operations.png)
+![Patients & Operations](<Patients & Operations.png>)
 
 ---
 
